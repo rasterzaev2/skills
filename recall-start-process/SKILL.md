@@ -24,7 +24,7 @@ You have a recall JSON and the task is to start/open the recall process in the b
 The intake endpoint is open for the hackathon — no token, no authorization header.
 
 ```
-INTAKE_URL = https://usewebhook.com/0a5c1f5de763a28c2d52d2c28687149d
+INTAKE_URL = https://test-fcrm.finom.world/api/scorecard/public/fraud-recalls
 ```
 
 Replace `REPLACE-ME...` with the real URL in this file (one place, Step 3). That URL is the only
